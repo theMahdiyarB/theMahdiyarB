@@ -1,5 +1,7 @@
 <h1 align="center">Hi there 👋&nbsp; I'm Mahdiyar Baladzadeh</h1>
-
+<p align="center">
+  <img src="/theMahdiyarB-Banner.webp" alt="Banner" width="1920"/>
+</p>
 <p align="center">
   <em>Industrial‑management graduate • Aspiring Human‑Centered AI researcher • Digital‑transformation enthusiast</em>
 </p>
